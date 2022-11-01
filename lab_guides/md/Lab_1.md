@@ -101,6 +101,7 @@ Figure 1.9: A screenshot showing the Connect to Microsoft Excel option
     downloaded from the GitHub repository for this lab, at
     <https://github.com/fenago/tableau-advanced>. Refer to the following screenshot:
 
+File path: `C:\Users\Administrator\Documents\My Tableau Repository\Datasources\2020.4\en_US-US`
 
 ![](./images/B16342_01_10.jpg)
 
